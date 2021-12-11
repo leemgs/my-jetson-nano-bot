@@ -9,6 +9,9 @@ Jetson Nano.
 
 To get started, read the [JetBot documentation](https://jetbot.org).
 
+## Screenshot
+
+<img src=https://github.com/leemgs/my-jetson-nano-bot/blob/main/img/jetson-nano-bot.jpg> </img>
 
 ## FAQ
 * Ask a question and discuss JetBot related topics on the [JetBot GitHub Discussions](https://github.com/NVIDIA-AI-IOT/jetbot/discussions)
