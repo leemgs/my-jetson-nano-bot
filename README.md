@@ -1,7 +1,7 @@
 # Nvidia Jetson Nano based Bot
 
 This GitHub repository is to develop an open-source robot based on NVIDIA
-Jetson Nano.
+Jetson Nano board.
 
 * **Affordable** - Less than $150 add-on to Jetson Nano
 * **Educational** - Tutorials from basic motion to AI based collision avoidance
